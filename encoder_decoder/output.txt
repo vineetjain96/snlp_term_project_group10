@@ -1,0 +1,677 @@
+Format - (input, target, output)
+
+Testing after Epoch  0 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+OD$ 3
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+ODFFFFFbmUk$ 12
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+ODe NTXuNTTXRJiiimmQmQQTDoTTXJGBbNSJPuaaannxGLLLLLJLLJGLLLLLJYLLLLLJYYDLLJXGEEtXiiiimmmQWQDDqDFFFFmFbUU 103
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+OD$ 3
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+OD$ 3
+
+
+Testing after Epoch  1 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samaram samarA samarA samarA samarA samarA samarA samarA samarA samarA samaram $ 86
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samaram samarA samarA samarA samarA samarA samarA samarA samarA samarA samarA samaram $ 93
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samaram samarA samarA samarA samarA samarA samarA samarA samarA samarA samarA samaram $ 93
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samaram samarA samarA samarA samarA samarA samarA samarA samarA samarA samarA samaram $ 93
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samaram samarA samarA samarA samarA samarA samarA samarA samarA samaram $ 79
+
+
+Testing after Epoch  2 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samarzasya samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH $ 84
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samarzasya samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarTa samarTa sama 103
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samarzasya samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarTa samarTa sama 103
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samarzasya samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarTa samarTa samar 104
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samarzasya samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarzaRaH samarTa samarTa 87
+
+
+Testing after Epoch  3 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samarTam tat tataH samarTam tataH samarTam tataH samarTam tataH samarTam tataH $ 86
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samarTam tat tataH samarTam tataH samarTam tataH samarTam tataH samarTam tataH $ 86
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samarTam tat tataH samarTam tataH samarTam tataH samarTam tataH samarTam tataH samarTam $ 95
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samarTam tat tataH samarTam tataH samarTam tataH samarTam tataH samarTam tataH samarTam $ 95
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samarTam tat tataH samarTam tataH samarTam tataH samarTam tataH samarTam $ 80
+
+
+Testing after Epoch  4 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samarTam tat tataH samarzaRaH samarTam tat tataH samarzaRaH samarzaRaH samarTam $ 87
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samarTam tat tataH samarzaRaH samarTam tat tataH samarzaRaH samarzaRaH samarTam anujam $ 94
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samarTam tat tataH samarzaRaH samarTam tat tataH samarzaRaH samarzaRaH samarTam anujagataH $ 98
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samarTam tat tataH samarzaRaH samarTam tat tataH samarzaRaH samarzaRaH samarTam anujam $ 94
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samarTam tat tataH samarzaRaH samarTam tat tataH samarzaRaH samarTam anujam $ 83
+
+
+Testing after Epoch  5 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH sarva sampraharzaRaH samarTam tat tasya samarzaRaH samarTam tat tasya samarzaRaH $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH sarva sampraharzaRaH samarTam tat tasya samarzaRaH samarTam tat tasya samarTam anujagataH $ 97
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH sarva sampraharzaRaH samarTam tat tasya samarzaRaH samarTam tat tasya samarTam anujagataH $ 97
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH sarva sampraharzaRaH samarTam tat tasya samarzaRaH samarTam tat tasya samarTam anujagataH $ 97
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH sarva sampraharzaRaH samarTam tat tasya samarzaRaH samarTam tat tasya samarzaRaH  87
+
+
+Testing after Epoch  6 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH sarva samAram tat tasya samare tataH sarva samare vinAta antaram tasya samarTam $ 87
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH sarva samAram tat tasya samare tataH sarva samare vinAta antaram tasya samarTam anujagrataH $ 99
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH sarva samAram tat tasya samare tataH sarva samare vinAta antaram tasya samarTam anujagrataH $ 99
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH sarva samAram tat tasya samare tataH sarva samare vinAta antaram tasya samarTam anujagrataH $ 99
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH sarva samAram tat tasya samare tataH sarva samare vinAta antaram $ 72
+
+
+Testing after Epoch  7 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 87
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 95
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 95
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 95
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 79
+
+
+Testing after Epoch  8 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 87
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 95
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 95
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 95
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH sarva samAram tat tat tat tat tat tat tat tat tat tat tat tat tat tataH $ 79
+
+
+Testing after Epoch  9 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH sarva samAram tataH sarva antaram tataH samare tataH sarva antaram tataH $ 80
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH sarva samAram tataH sarva antaram tataH samare tataH sarva antaram tataH samarTam anujagrataH $ 101
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH sarva samAram tataH sarva antaram tataH samare tataH sarva antaram tataH samarTam anujagrataH $ 101
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH sarva samAram tataH sarva antaram tataH samare tataH sarva antaram tataH samarTam anujagrataH $ 101
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH sarva samAram tataH sarva antaram tataH samare tataH sarva antaram tasya samare $ 87
+
+
+Testing after Epoch  10 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam $ 81
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH sarva samAro vinivartataH sarva samare tataH samare tataH samare tataH samarTam $ 87
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 72
+
+
+Testing after Epoch  11 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam anujagrataH $ 93
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 72
+
+
+Testing after Epoch  12 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam anujagmur $ 91
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 72
+
+
+Testing after Epoch  13 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam $ 94
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam $ 81
+
+
+Testing after Epoch  14 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam $ 94
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam $ 94
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam $ 94
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam $ 81
+
+
+Testing after Epoch  15 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samarTam tataH samarTam arhasi $ 90
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samarTam tataH samare tataH $ 87
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samarTam tataH samare tataH $ 87
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samarTam tataH samare tataH $ 87
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 75
+
+
+Testing after Epoch  16 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samarTam anujagmur anuragata $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samarTam anujagmur anupratimam $ 90
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samarTam anujagmur anupratimam $ 90
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samarTam anujagmur anupratimam tataH $ 83
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 75
+
+
+Testing after Epoch  17 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tat tataH samarTam $ 85
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+tataH samare tataH samare tataH samare tataH samare tataH samare tat tataH samarTam arhasi $ 92
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tat tataH samarTam arhasi $ 92
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tatra viSvAmitra viSvAmitram anujagmur anupratimam tataH samarTam arhasi $ 77
+
+
+Testing after Epoch  18 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tat sa tat samarTam $ 86
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+sa tatra viSAlAkzam samare tataH samare tataH samare tataH samare tat sa tat samarTam arhasi $ 94
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tatra viSvAmitra viSvAmitram anujagmur anupratimam tataH samarTam arhasi $ 77
+
+
+Testing after Epoch  19 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+sa tat samare tataH samare tataH samare tataH samare tataH samare tat tataH samare tataH $ 90
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tatra viSvAmitra viSvAmitram anujagmur anujagmur viSvAmitram anujagmur anuravikramaH 87
+
+
+Testing after Epoch  20 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tat tataH prati $ 82
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+sa tat samare tataH samare tataH samare tataH samare tat tataH samare tat tataH samarTam arhasi $ 97
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tat samare tataH samare tataH samare tataH samare tat tataH samare tat $ 75
+
+
+Testing after Epoch  21 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+sa tat samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 86
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tat samare tataH samare tataH samare tataH samare tataH samare tataH $ 73
+
+
+Testing after Epoch  22 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+sa tat samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 86
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tat samare tataH samare tataH samare tataH samare tataH samare tataH $ 73
+
+
+Testing after Epoch  23 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+sa tat samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 86
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tat samare tataH samare tataH samare tataH samare tataH samare tataH $ 73
+
+
+Testing after Epoch  24 
+
+rAma viSiKEH Cinnam tat SUlam BuviH Apatat aSaninA Cinnam meroH SilAtalam iva papAta  85
+tat rAma viSiKEH Cinnam SUlam tasya Apatat BuviH papAta aSaninA cinnam meror iva SilA talam  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samarTam arhasi $ 88
+
+
+tO KadgO kSipram udyamya kfzRa sarpO iva udyatO tUrRam ApatataH tasya tadA prahAratAm balAt  92
+tO KaqgO kzipram udyaMya kfzRa sarpO iva udyatO tUrRam ApetatuH tasya tadA prahAratAm balAt  92
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+saH vaDyamAna su BfSam BujAByAm pari ghya tO aprakampyO nara vyAGrO rOdraH prasTAtum EcCata  92
+sa vaDyamAna suBfSam BujAByAm parigfhya tO aprakaMpyO naravyAGrO rOdraH prasTAtum EcCata  89
+sa tat samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 86
+
+
+tasya aBiprAyam ajYAya rAmaH lakSmanam abravIt ayam rAkSasaH anena paTa alam vahatu tAvat tu  93
+tasya aBiprAyam ajYAya rAmo lakzmaRam abravIt vahatu ayam alam tAvat paTAnena tu rAkzasaH  90
+tataH samare tataH samare tataH samare tataH samare tataH samare tataH samare tataH $ 85
+
+
+rAkSasaH yaTA icCati taTA vahatu niSA caraH yena yAti ayam eva hi naH panTA  76
+yaTA ca icCati sOmitre taTA vahatu rAkzasaH ayam eva hi naH panTA yena yAti niSAcaraH  86
+sa tatra viSvAmitram tataH samare tataH samare tataH samare tataH samarTam arhasi $ 83
+
+
