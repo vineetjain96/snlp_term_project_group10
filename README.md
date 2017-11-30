@@ -1,9 +1,10 @@
 # snlp_term_project_group10
 
 # Encoder Decoder
-  python3 reading_pairs.py
-  python3 preprocessing.py
-  python3 train.py
+Instructions to run the code:
+  1) python3 reading_pairs.py
+  2) python3 preprocessing.py
+  3) python3 train.py
   
 # Adaptor Grammar
 For training:
